@@ -17,3 +17,12 @@
     ||| \       __/_||  __||__
 -----||-/------`-._/||-o--o---o---
   ~~~~~'
+
+                 (Placeholder ASCII art until I add actual assets)
+
+
+
+
+
+
+                 *may keep this as an easter egg even after adding images and icons
